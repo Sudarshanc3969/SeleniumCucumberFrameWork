@@ -1,0 +1,85 @@
+http://demo.automationtesting.in/Register.html
+http://demo.automationtesting.in/Register.html
+http://demo.automationtesting.in/Register.html
+http://demo.automationtesting.in/Register.html
+
+[@test] STARTED
+FEATURE: file:///D:/SeleniumProjects/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:3
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/SeleniumProjects/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:3
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:3
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:3
+http://demo.automationtesting.in/Register.html
+ACT Title : Register = EXP Title : Register1
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:10
+http://demo.automationtesting.in/Register.html
+Page Header 2 Is not Presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:10
+http://demo.automationtesting.in/Register.html
+ verifyPageHeader2 : RegisterFormPage org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#\/\/h2"}
+  (Session info: chrome=97.0.4692.71)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LENOVO', ip: '192.168.0.101', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.71, chrome: {chromedriverVersion: 97.0.4692.71 (adefa7837d02a..., userDataDir: C:\Users\Lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:54508}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 83c146e0306d328e20abcf3ae52f608a
+*** Element info: {Using=id, value=//h2}
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:10
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:10
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:10
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:12
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:13
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:14
+http://demo.automationtesting.in/Register.html
+STATUS: UNDEFINED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:14
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:14
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED

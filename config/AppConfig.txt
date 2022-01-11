@@ -1,0 +1,6 @@
+#APP URL (If we have more than one urls to be used, we have to add accordingly). Any modifications here accordingly incorporated in AppConfig.java
+#APP_URL=https://10.255.4.13/
+APP_URL=http://demo.automationtesting.in/Register.html
+APP_USERNAME=nagc
+APP_PASSWORD=Nagasesha143@
+#ANY OTHER APP SPECIFIC CONFIGUTATIONS CAN BE ADDED HERE (LIKE LOCATIONS TO ANY DATA REFERENCE...)
