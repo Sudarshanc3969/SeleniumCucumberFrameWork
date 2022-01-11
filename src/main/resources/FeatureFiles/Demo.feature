@@ -9,7 +9,8 @@ Feature: Demo feature
     When the user fill last name "<LastName>" text box
     And the user fill Address box "<Address>" text Box
     And the usr fill email "<Email>" text box
+    And the user fill phone number "<Phone>" text box
 
     Examples:
-      | Header2  | FirstName | LastName | Address                        | Email          |
-      | Register | Sudha     | Reddy    | Marthahalli, Bangalore, 560037 | test@gmail.com |
+      | Header2  | FirstName | LastName | Address                        | Email          | Phone      |
+      | Register | Sudha     | Reddy    | Marthahalli, Bangalore, 560037 | test@gmail.com | 9876543210 |

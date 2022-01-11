@@ -29,6 +29,8 @@ public class RegisterFormPages {
     public WebElement adressTextBox;
     By emailTextBox= By.xpath("//input[@ng-model='EmailAdress']");
 
+    By phoneTextBox = By.xpath("//input[@ng-model='Phone']");
+
     public boolean verifyPageTitle(String title){
         try{
             if(!driver.getTitle().trim().equalsIgnoreCase(title)){
@@ -107,6 +109,21 @@ public class RegisterFormPages {
             return true;
         }catch (Exception exp){
             Debugger.println("fillEmailInputBox : RegisterFormPage : "+exp);
+            return false;
+        }
+
+    }
+
+    public boolean fillPhoneInputBox(String phone) {
+        try {
+            if (!seleniumLib.isElementPresent(emailTextBox)) {
+                Debugger.println("phone input field is not presence");
+                return false;
+            }
+            seleniumLib.sendValue(phoneTextBox, phone);
+            return true;
+        }catch (Exception exp){
+            Debugger.println("fillPhoneInputBox : RegisterFormPage : "+exp);
             return false;
         }
 

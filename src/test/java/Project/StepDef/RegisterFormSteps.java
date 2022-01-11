@@ -52,6 +52,12 @@ public class RegisterFormSteps extends Pages {
         boolean testResult = false;
         testResult = registerFormPage.fillEmailInputBox(email);
         Assert.assertTrue(testResult);
+    }
 
+    @And("the user fill phone number {string} text box")
+    public void theUserFillPhoneNumberTextBox(String phone) {
+        boolean testResult = false;
+        testResult = registerFormPage.fillPhoneInputBox(phone);
+        Assert.assertTrue(testResult);
     }
 }
