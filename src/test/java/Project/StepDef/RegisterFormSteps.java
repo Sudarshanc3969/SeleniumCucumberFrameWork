@@ -60,4 +60,95 @@ public class RegisterFormSteps extends Pages {
         testResult = registerFormPage.fillPhoneInputBox(phone);
         Assert.assertTrue(testResult);
     }
+
+    @And("the user select select gender radio button as male")
+    public void theUserSelectSelectGenderRadioButtonAsMale() {
+        boolean testResult = false;
+        testResult = registerFormPage.selectGenderRadiobutton();
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select select gender radio button as {string}")
+    public void theUserSelectSelectGenderRadioButtonAs(String gender) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectGenderRadiobutton(gender);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select select hobbies check box as {string}")
+    public void theUserSelectSelectHobbiesCheckBoxAs(String hobbies) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectHobbiesCheckBox(hobbies);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select select Langauges multiselect {string}")
+    public void theUserSelectSelectLangaugesMultiselect(String language) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectLanguagesList(language);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select skill by Dropdown {string}")
+    public void theUserSelectSkillByDropdown(String skill) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectSkillDropdownlist(skill);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select secondary country dropdown {string} option {string}")
+    public void theUserSelectSecondaryCountryDropdownOption(String hintText, String option) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectSecondaryCountryDropdown(hintText, option);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select date of year dropdown {string}")
+    public void selectYearDropdownList(String year) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectYearDropdownList(year);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select date of Month dropdown {string}")
+    public void theUserSelectDateOfMonthDropdown(String month) {
+        boolean testResult = false;
+        testResult = registerFormPage.selectMonthDropdownList(month);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user select date of day dropdown {string}")
+    public void theUserSelectDateOfDayDropdown(String day) {
+        boolean testResult=false;
+        testResult=registerFormPage.selectDayDropdownList(day);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user fill password box {string} text box")
+    public void theUserFillPasswordBoxTextBox(String psw) {
+        boolean testResult=false;
+        testResult=registerFormPage.fillPasswordTextBoxField(psw);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user fill confirm password box {string} text box")
+    public void theUserFillConfirmPasswordBoxTextBox(String cpsw) {
+        boolean testResult= false;
+        testResult=registerFormPage.fillconfirmPasswordtextbox(cpsw);
+        Assert.assertTrue(testResult);
+    }
+
+    @And("the user verify submit Button is visible")
+    public void theUserVerifySubmitButtonIsVisible() {
+        boolean testResult=false;
+        testResult=registerFormPage.verifySubmitButton();
+        Assert.assertTrue(testResult);
+    }
+
+    @Then("the user is click refresh button")
+    public void theUserIsClickRefreshButton() {
+        boolean testResult=false;
+        testResult=registerFormPage.verifyRefreshButton();
+        Assert.assertTrue(testResult);
+    }
 }

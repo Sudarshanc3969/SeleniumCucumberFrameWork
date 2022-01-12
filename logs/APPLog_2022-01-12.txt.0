@@ -13,3 +13,241 @@ STATUS: PASSED
 FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:15
 http://demo.automationtesting.in/Register.html
 STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:16
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:17
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:18
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:19
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:19
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:19
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+Langauges List field is not presence : selectLangaugesMulti : RegisterFormPage : java.lang.NullPointerException
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+hobbies check box field is not presence : selectHobbiesCheckBox : RegisterFormPage : java.lang.NullPointerException
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+Languages check box field is not presence : selectHobbiesCheckBox : RegisterFormPage : java.lang.NullPointerException
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:20
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:21
+http://demo.automationtesting.in/Register.html
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:21
+http://demo.automationtesting.in/Register.html
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:21
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:22
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:22
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:22
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:22
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:22
+http://demo.automationtesting.in/Register.html
+Languages check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:22
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:23
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+Day Dropdown check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+Day Dropdown check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+Day Dropdown check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+Languages check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+Languages check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:24
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:25
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:25
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:26
+http://demo.automationtesting.in/Register.html
+Languages check box field is not presence
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:26
+http://demo.automationtesting.in/Register.html
+Confirm password text box file is prent
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:26
+http://demo.automationtesting.in/Register.html
+Confirm password text box file is prent
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:26
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:27
+http://demo.automationtesting.in/Register.html
+Submit Button is not present
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:27
+http://demo.automationtesting.in/Register.html
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:27
+http://demo.automationtesting.in/Register.html
+Submit Button is not present
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:27
+http://demo.automationtesting.in/Register.html
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:28
+http://demo.automationtesting.in/Register.html
+Submit Button is not present
+STATUS: FAILED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:28
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
+
+[@test] STARTED
+FEATURE: file:///D:/CucumberFrameWork/SeleniumPractice/src/main/resources/FeatureFiles/Demo.feature:28
+http://demo.automationtesting.in/Register.html
+STATUS: PASSED
